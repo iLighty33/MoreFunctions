@@ -45,6 +45,7 @@ int main() {
 	cin >> n >> m;
 
 	cout << maxFunc(n, m) << endl;
+	cout << "Конец!";
 
 	/*
 	cin >> n >> m;
